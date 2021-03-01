@@ -1,12 +1,15 @@
 Package: hubeauR
-Title: What the Package Does (One Line, Title Case)
+Title: R package to query the Hub'Eau (french)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Alexandre",
+           family = "Thibault",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "alexandre.thibault@anteagroup.com")
+    person(given = "David",
+           family = "Savignat",
+           role = c("aut", "cre"),
+           email = "david.savignat@anteagroup.com")
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
